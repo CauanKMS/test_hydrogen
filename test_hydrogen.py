@@ -1,4 +1,4 @@
 print("hello world")
 
-for i in range(5):
-    print("work:" + str(i))
+for i in range(10):    
+    print("work: " + str(i))
